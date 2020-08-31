@@ -1,0 +1,15 @@
+p{
+    font-size: 1.4vw;
+}
+h3{
+    font-size: 2vw;
+}
+.container{
+    background-color: bisque;
+    margin-top: 2vw;
+    margin-bottom: 2vw;
+    border: 2px solid black;
+}
+h1{
+    font-size: 3vw;
+}
