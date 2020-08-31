@@ -1,0 +1,1 @@
+# new-pet-class-repo
